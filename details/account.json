@@ -1,0 +1,17 @@
+{
+    "001": {
+        "username": "hemant",
+        "email": "hmant@gmail.com",
+        "password": "hemant4199"
+    },
+    "002": {
+        "username": "harshal",
+        "email": "harshal@gmail.com",
+        "password": "harsh123"
+    },
+    "003": {
+        "username": "ram",
+        "email": "ram@gmail.com",
+        "password": "ram456"
+    }
+}
